@@ -7,7 +7,6 @@
   - large uptick in Bus usage between 2012 to 2020
 
 - 2013 - 2017 Downtown line opens in 3 stages
-  -
 
 - 2016 LTA takes more control over bus planning and contracts
   - minor changes in usage from 2016 to 2017, growth happens in 2017 through 2020
