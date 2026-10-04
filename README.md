@@ -27,12 +27,19 @@
 # Linear Regression notes:
 
 - While there is an upward trend for most ridership charts, they are all slightly inaccurate due to Covid-19 completely stopping tourist arrivals and keeping Singapore in lockdown
+- While not reflected in the linear regression by year model, the MRT saw a significant bounce back in usage after covid.
+- small bumps in usage around the third to fourth quarter of the year in MRT and bus usage, which is in line with the F1 race in Singapore, suggesting that the amount of arrivals coming into Singapore do affect the usage and efficiency of the MRT system.
+	- Interesting to note: from the daily MRT usage, there are small dips in the graph in the December period of each year, going from ~3.5 million riders in mid 2023 to 3 million in December 2023 before shooting back up to 3.5 million come January. This suggests that the amount of departures in Singapore has significant effect on the public transport usage in the same way that arrivals affect ridership. This effect is also seen on the bus daily usage graph.
 
+# Taxi Availability notes:
+- significant differences in amount of Taxis available on national day compared to one week after
+	- throughout National Day, there were a minimum of 1300 taxis available throughout the day compared to August 15th, which didn't break 500 until evening.
 
 # Tasks to be completed:
 
-- set up tracker to get data on taxi availability for F1 2026 (October)
-
+- set up tracker to get data on taxi availability for F1 2026 (October 9 - 12)
+- create linear regression/Time series models for Taxi availability CSV files (DONE)
+- search for data on Singapore departures
 
 # Inspiration:
 
